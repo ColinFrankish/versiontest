@@ -1,1 +1,15 @@
 What is a branch? 
+
+This is the nuts (and bolts) of version control. 
+
+If you are working on a project  and you wish to perhaps work on a new
+feature or try a different method you can set up a new branch, in this
+case we did 'answers' for the new branch. 
+You can continue to add/commit in the new branch while leaving the original
+version untouched on the master branch. 
+You can switch between branches and work on 2 versions of the project, or
+two or more developers could work on different branches. 
+You can then merge the changes back into one branch, but you will have
+to manually fix any conflicts. 
+If you decide that the new branch is no good you can just revert back to the
+original branch to continue with the 'old version'. 
