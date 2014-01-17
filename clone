@@ -1,1 +1,12 @@
-What is git clone??
+it clone:
+
+Git clone (git clone 'SSH URL from github') is used to clone a directory
+straight from github into your local machine. 
+
+Its actually a shortcut for several operations
+mkdir
+cd to repo
+git init
+git add remote origin
+git pull
+cd .. 
