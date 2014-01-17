@@ -1,1 +1,13 @@
 What is upstream and what is it for? 
+
+command git upstream 
+
+It can be used in 2 ways. First to connect a new branch to the git hub 
+so you can push the new branch into github. 
+in this case git push--set-upstream origin answers
+
+Or when you have forked a repo from somewhere else you can
+create an upstream to the original repo by using
+git remote add upstream 'URL of original repo from git hub'
+This will allow you to pull from the original repo that you forked. 
+
