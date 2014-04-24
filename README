@@ -1,3 +1,15 @@
 README:
 
-The purpose of the version test was to show an understanding 
+The purpose of the version test was to show an understanding of git 
+branches and version control. 
+
+Master branch held the questions while the answers  branch held the 
+answers. 
+
+Also to write the principles of git clone, upstream etc in a form that
+is understandable to myself. 
+
+
+Upon reviewing early files after my initial training course. I have
+deleted the 'answers branch' and merged back into master to tidy up
+the mini project. 
