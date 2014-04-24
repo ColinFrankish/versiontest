@@ -1,4 +1,4 @@
-it clone:
+git clone:
 
 Git clone (git clone 'SSH URL from github') is used to clone a directory
 straight from github into your local machine. 
